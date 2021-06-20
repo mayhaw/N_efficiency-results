@@ -1,0 +1,1 @@
+__ Pick up making this entirely drag and dromehow... can you drag foldes? Prob not. If not, make it so you have a hierarchy that reflects the rmd's needs so you can drag and drop the rmd and then the images in two steps and be done with it working immediately with no farkling with the html
