@@ -1,0 +1,1 @@
+NC_R1_CC_SF_PL_INC_Day 35 went over detection l imits for the ECd on N2O TWICE so i finally said screw it and extracted 3ml from the original vial and put it into a vial that I had had Juhi flush with N2 two months ago. That flushed vial had only been used by the big needle on the GC once before so it should probably have been holding pure N2. 

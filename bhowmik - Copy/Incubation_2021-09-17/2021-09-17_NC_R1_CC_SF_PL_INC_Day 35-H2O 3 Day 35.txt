@@ -1,0 +1,524 @@
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R1$ CC_SF, PL_INC (Day 35)   _1_1.gcd
+Output Date,9/17/2021
+Output Time,10:08:59 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.248,34876,3576,8.60554,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.682,117559008,7580539,24192.09831,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R2$ CC_SF, PL_INC (Day 35)  _2_1.gcd
+Output Date,9/17/2021
+Output Time,10:18:06 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.253,34746,3561,8.55114,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.669,180907914,11891220,37250.38683,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R3$ CC_SF, PL_INC (Day 35) _3_1.gcd
+Output Date,9/17/2021
+Output Time,10:27:19 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.251,36322,3713,9.21018,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.687,112081341,7162689,23062.97144,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R1$ CC_INC, PL_SF (Day 35) _4_1.gcd
+Output Date,9/17/2021
+Output Time,10:36:32 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.256,35452,3676,8.84636,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.671,168877467,11045866,34770.51689,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R2$ CC_INC, PL_SF (Day 35) _5_1.gcd
+Output Date,9/17/2021
+Output Time,10:45:42 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.252,40580,3731,10.99076,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.654,270092237,17891331,55634.20245,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R3$ CC_INC, PL_SF (Day 35)  _6_1.gcd
+Output Date,9/17/2021
+Output Time,10:54:55 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.245,38830,3605,10.25900,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.673,172379018,11181155,35492.30153,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R1$ CC_SF, PL_SF (Day 35)  _7_1.gcd
+Output Date,9/17/2021
+Output Time,11:04:02 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.251,43474,3989,12.20113,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.653,275848784,18247724,56820.81589,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R2$ CC_SF, PL_SF (Day 35) _8_1.gcd
+Output Date,9/17/2021
+Output Time,11:13:15 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.248,39729,3749,10.63489,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.655,268983622,17771491,55405.68061,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R3$ CC_SF, PL_SF (Day 35) _9_1.gcd
+Output Date,9/17/2021
+Output Time,11:22:25 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.251,37066,3838,9.52139,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.653,278611040,18408919,57390.20747,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R1$ CC_INC, PL_INC (Day 35) _10_1.gcd
+Output Date,9/17/2021
+Output Time,11:31:35 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.249,40324,3810,10.88383,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.655,265832571,17593441,54756.14556,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R2$ CC_INC, PL_INC (Day 35)  _11_1.gcd
+Output Date,9/17/2021
+Output Time,11:40:48 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.244,35702,3735,8.95109,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.656,259571383,17115519,53465.50922,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R3$ CC_INC, PL_INC (Day 35)   _12_1.gcd
+Output Date,9/17/2021
+Output Time,11:49:56 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.248,41498,3802,11.37500,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.667,207051143,13456141,42639.36424,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R1$ Control (Day 35)  _13_1.gcd
+Output Date,9/17/2021
+Output Time,11:59:09 AM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.248,35471,3672,8.85436,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.717,11360366,674087,2301.07317,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R2$ Control (Day 35)  _14_1.gcd
+Output Date,9/17/2021
+Output Time,12:08:19 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.251,42404,3598,11.75349,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.718,13069785,783620,2653.44046,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_NC R3$ Control (Day 35) _15_1.gcd
+Output Date,9/17/2021
+Output Time,12:17:32 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.252,40378,3816,10.90637,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.716,18241607,1109885,3719.52280,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R1$ CC_INC, PL_SF (Day 35) _16_1.gcd
+Output Date,9/17/2021
+Output Time,12:26:42 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.250,42023,4019,11.59425,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.655,261308114,17266710,53823.50650,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R2$ CC_INC, PL_SF (Day 35) _17_1.gcd
+Output Date,9/17/2021
+Output Time,12:35:53 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.250,41055,3853,11.18955,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.655,265685095,17550448,54725.74588,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R3$ CC_INC, PL_SF (Day 35) _18_1.gcd
+Output Date,9/17/2021
+Output Time,12:45:03 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.249,39205,4004,10.41610,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.654,287339461,18838296,59189.42147,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,0
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R1$ CC_SF, PL_INC (Day 35)   _19_1.gcd
+Output Date,9/17/2021
+Output Time,12:54:13 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.248,43019,4063,12.01077,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.660,239325761,15713981,49292.22211,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.270,4606004,296866,271.59342,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R2$ CC_SF, PL_INC (Day 35) _20_1.gcd
+Output Date,9/17/2021
+Output Time,1:03:26 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.249,42772,4184,11.90778,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.655,273267460,17983487,56288.72024,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.278,10812818,677924,637.57875,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R3$ CC_SF, PL_INC (Day 35)  _21_1.gcd
+Output Date,9/17/2021
+Output Time,1:12:36 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.247,42522,4275,11.80291,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.655,284152499,18607563,58532.48395,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.235,54461,6499,3.21129,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R1$ CC_SF, PL_SF (Day 35) _22_1.gcd
+Output Date,9/17/2021
+Output Time,1:21:46 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.247,41836,4004,11.51607,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.673,176883185,11450864,36420.75817,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.280,4822184,316346,284.34049,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R2$ CC_SF, PL_SF (Day 35) _23_1.gcd
+Output Date,9/17/2021
+Output Time,1:30:57 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.249,42866,4121,11.94703,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.654,288677674,18978573,59465.27106,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.259,66692,4621,3.93250,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R3$ CC_SF, PL_SF (Day 35)  _24_1.gcd
+Output Date,9/17/2021
+Output Time,1:40:07 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.246,41484,4152,11.36911,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.654,279350072,18352444,57542.54622,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.270,47383,3270,2.79395,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R1$ CC_INC, PL_INC (Day 35)   _25_1.gcd
+Output Date,9/17/2021
+Output Time,1:49:20 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.245,41039,4103,11.18304,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.666,208472887,13588295,42932.43241,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.275,4801499,312122,283.12082,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R2$ CC_INC, PL_INC (Day 35)   _26_1.gcd
+Output Date,9/17/2021
+Output Time,1:58:30 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.252,40778,4080,11.07396,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.678,165613684,10603755,34097.74407,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.331,27184212,1724155,1602.91938,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R3$ CC_INC, PL_INC (Day 35)  _27_1.gcd
+Output Date,9/17/2021
+Output Time,2:07:39 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.242,39450,4057,10.51835,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.665,216025908,14146153,44489.35789,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.269,2089296,134781,123.19550,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R1$ Control (Day 35) _28_1.gcd
+Output Date,9/17/2021
+Output Time,2:16:52 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.247,44968,4157,12.82599,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.721,17351580,1027790,3536.05892,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.290,62045,4623,3.65847,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R2$ Control (Day 35) _29_1.gcd
+Output Date,9/17/2021
+Output Time,2:26:01 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.247,39750,3971,10.64394,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.721,14300672,851341,2907.16669,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.296,39089,3736,2.30489,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_GA R3$ Control (Day 35) _30_1.gcd
+Output Date,9/17/2021
+Output Time,2:35:12 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.249,41257,3875,11.27413,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.719,18148485,1095221,3700.32729,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.301,37028,3326,2.18335,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_Air 1 (Day 35)_31_1.gcd
+Output Date,9/17/2021
+Output Time,2:44:23 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.246,43539,4074,12.22825,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.720,4521193,270482,891.29518,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.282,36377,3146,2.14497,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_Air 2 (Day 35)_32_1.gcd
+Output Date,9/17/2021
+Output Time,2:53:35 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.250,44130,4038,12.47542,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.721,5305282,317819,1052.92151,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.289,26909,2351,1.58671,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_H2O 1 (Day 35)_33_1.gcd
+Output Date,9/17/2021
+Output Time,3:02:44 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.252,40138,3871,10.80612,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.723,6072097,365745,1210.98733,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.307,26798,1824,1.58013,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_H2O 2 (Day 35)_34_1.gcd
+Output Date,9/17/2021
+Output Time,3:11:55 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.254,38109,3892,9.95766,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.719,5514028,335682,1095.95107,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.286,29584,2196,1.74442,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
+[Header]
+Data File Name,C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-17\bhomik_H2O 3 (Day 35)_35_1.gcd
+Output Date,9/17/2021
+Output Time,3:21:07 PM
+
+[Compound Results (Ch1)]
+# of IDs,2
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,CH4,3.250,39464,3973,10.52447,Default,0.0000000,0.0000000,4.181727e-004,-5.978499,
+2,CO2,6.720,5542644,338050,1101.84977,Default,0.0000000,0.0000000,2.061328e-004,-40.67114,
+
+[Compound Results (Ch2)]
+# of IDs,1
+ID#,Name,R.Time,Area,Height,Conc.,Curve,3rd,2nd,1st,Constant
+1,N2O,7.293,25896,1794,1.52696,Default,0.0000000,0.0000000,5.896508e-005,0.0000000,
+
