@@ -1,1 +1,0 @@
-Had to re-do these samples bc for a lot of them the N2O ECD wasnt working. See "C:\GCsolution\Data\Sean\2020\Batchfiles_and_Data\Incubation_2021-09-13_2\Troubleshooting_no_ecd_signal_2021-09-15_delete.rtf" for more info
